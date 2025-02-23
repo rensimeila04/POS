@@ -1,13 +1,13 @@
-<!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>POS | Landing Page</title>
+    <title>Home Care Page</title>
 </head>
+
 <body>
-    <h1> Welcome to Point of Sales Landing Page</h1>
+    <h1>Home Care page</h1>
 </body>
 
 </html>
